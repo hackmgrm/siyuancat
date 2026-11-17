@@ -1,0 +1,27 @@
+{
+  "name": "sy-clip",
+  "author": "Solomon",
+  "url": "https://github.com/",
+  "version": "0.5.6",
+  "minAppVersion": "3.8.0",
+  "backends": ["all"],
+  "frontends": ["desktop", "browser-desktop"],
+  "displayName": {
+    "default": "剪藏助手",
+    "zh_CN": "剪藏助手",
+    "en_US": "Clip In"
+  },
+  "description": {
+    "default": "粘贴链接，抓取正文，AI 整理标题/摘要/标签/分类，一键存进思源（目录位置交给思源自己管理）",
+    "zh_CN": "粘贴链接，抓取正文，AI 整理标题/摘要/标签/分类，一键存进思源（目录位置交给思源自己管理）",
+    "en_US": "Paste a link, extract the article, let AI write the title/summary/tags, and save it into SiYuan."
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README.md"
+  },
+  "funding": {
+    "custom": []
+  },
+  "keywords": ["clip", "剪藏", "read-it-later", "ai"]
+}
